@@ -1,7 +1,7 @@
 {
-  "name": "digital-business-card",
+	"homepage": "https://simonerossi83/github.io/digital-business-card",
+	"name": "digital-business-card",
   "version": "0.1.0",
-  "homepage": "https://simonerossi83/github.io/digital-business-card",
   "private": true,
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.36",
